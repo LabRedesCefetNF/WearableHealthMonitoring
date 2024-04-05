@@ -1,7 +1,7 @@
 #include <SPI.h> // Comunicação serial síncrona
 #include <Wire.h> // Comunicação I2C
 #include <SparkFun_ADXL345.h> // Acelerômetro
-#include <SecurityVanet.h> // Comunicação de rede
+#include <SecurityVanet.h> // Comunicação de rede https://github.com/LabRedesCefetNF/security-vanets
 
 #define batimentos A0
 #define temperatura A1

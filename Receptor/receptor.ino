@@ -1,6 +1,6 @@
 #include <SPI.h> // Comunicação serial síncrona
 #include <Wire.h> // Comunicação I2C
-#include <SecurityVanet.h> // Comunicação de rede
+#include <SecurityVanet.h> // Comunicação de rede https://github.com/LabRedesCefetNF/security-vanets
 #include <Ethernet.h> // Configurar e controlar a comunicação Ethernet no Arduino
 #include <ArduinoJson.h> // Biblioteca para manipulação de JSON
 #include <RTClib.h> // Interage com módulos de relógio em tempo real (RTC)
